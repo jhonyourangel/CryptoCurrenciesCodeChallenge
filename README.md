@@ -5,7 +5,7 @@ Follow the links for the detailed requirements on the [first screen](https://git
 
 If you feel like going further, check out the [bonus tasks](https://github.com/ppbdrinker/CryptoCurrenciesCodingChallenge/wiki/Bonus-tasks) page.
 
-Time difference (as calculated by the difference between the last and the first commit timestamps) should not exceed 2-2.5 hrs, with the absolute maximum of 3 hrs.
+Time spent (as calculated by the difference between the last and the first commit timestamps) should not exceed 2-2.5 hrs, with the absolute maximum of 3 hrs.
 
 ## Tools of the trade 
 You should be using the [Coinmarketcap public API](https://coinmarketcap.com/api/). It is a very simple API that has only three endpoints and delivers JSON payloads in response.
